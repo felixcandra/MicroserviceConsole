@@ -1,0 +1,10 @@
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\Microservice.Core.exe.config
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\Microservice.Core.exe
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\Microservice.Core.pdb
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\EntityFramework.dll
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\EntityFramework.xml
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\obj\Debug\Microservice.Core.csprojResolveAssemblyReference.cache
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\obj\Debug\Microservice.Core.exe
+C:\Users\felix\documents\visual studio 2015\Projects\Microservice\Microservice.Core\obj\Debug\Microservice.Core.pdb
